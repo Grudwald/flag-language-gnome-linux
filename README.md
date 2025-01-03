@@ -8,15 +8,18 @@
 Для использования `flag.bash` вам потребуется доступ к суперпользователю (sudo) на вашей системе:
 
 1. Клонируйте репозиторий:
+
    ```bash
    git clone https://github.com/grudwald/flag.bash.git
    cd flag.bash
 
 2. Сделайте файл скрипта исполняемым:
+
     ```bash
     chmod +x flag.bash
 
 3. Запустите скрипт:
+
    ```bash
    ./flag.bash
 
