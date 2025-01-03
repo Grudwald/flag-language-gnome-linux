@@ -10,7 +10,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone [https://github.com/grudwald/flag.bash.git](https://github.com/Grudwald/flag-language-gnome-linux.git)
+   git clone https://github.com/Grudwald/flag-language-gnome-linux.git
    cd flag.bash
 
 2. Сделайте файл скрипта исполняемым:
